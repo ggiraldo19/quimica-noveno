@@ -1,4 +1,3 @@
-# quimica-noveno
 <!DOCTYPE html>
 <html lang="es" class="h-full">
 <head>
